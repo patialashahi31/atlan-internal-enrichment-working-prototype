@@ -2,8 +2,8 @@
 
 We will be simulating this scenario
 
-producer.py will generate the metadata update which is subscribed by Kafka consumer in consumer.py
-We will record the updates in Cassandra DB and it will be migrated to other datastores/ entities here postgres is used
+### producer.py will generate the metadata update which is subscribed by Kafka consumer in consumer.py. 
+### We will record the updates in Cassandra DB and it will be migrated to other datastores/ entities here postgres is used. 
 
 
 ## Local Setup
