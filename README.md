@@ -1,1 +1,7 @@
-# atlan-internal-enrichment-working-prototype
+## Local Setup
+
+```bash
+
+make up
+
+```
